@@ -1,1 +1,1 @@
-# Approximation-to-Binomial
+# Poisson's Approximation to Binomial Distribution
